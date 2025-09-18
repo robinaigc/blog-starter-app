@@ -1,8 +1,9 @@
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+export const dynamicParams = true;
 // /app/posts/page.tsx
 import Link from "next/link";
 import { getPosts } from "@/lib/notion";
-
-export const revalidate = 60;
 
 export default async function PostsIndex() {
   const posts = await getPosts();
