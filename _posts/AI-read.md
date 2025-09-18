@@ -1,13 +1,13 @@
 ---
-title: "AI如何提高我们的阅读效率"
+title: "AI如何帮我们提升阅读效率"
 excerpt: "人工智能如何帮助我们更高效地获取和理解信息？本文简要介绍AI在提升阅读效率方面的应用。"
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/AI-read/cover.jpg"
 date: "2025-09-16T05:35:07.322Z"
 author:
   name: Robin Seun
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/AI-read/cover.jpg"
 ---
 
 随着信息量的爆炸式增长，如何高效阅读成为每个人面临的挑战。AI技术可以通过智能摘要、关键词提取和个性化推荐，帮助我们快速抓住重点内容。
